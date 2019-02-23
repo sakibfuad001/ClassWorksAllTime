@@ -1,0 +1,48 @@
+
+###for any further query contact me: Md. Aashikur Rahman Azim, email: aashikazim@gmail.com
+
+
+IP Address Classes: A, B, C, D, E See from: https://www.computerhope.com/jargon/i/ip.htm
+Private IP:
+A: 10.0.0.0 - 10.255.255.255
+B: 172.16.0.0 - 172.31.255.255
+C: 192.168.0.0 - 192.168.255.255
+Public IP: 
+--Others
+
+
+protocol data unit (PDU)
+
+
+COntents:
+1. Static Routing
+2. Dynamic Routing
+
+
+1. Simple Single LAN Connection for switches and PCS
+	--Static
+	--DHCP (Dynamic Host Configuration Protocol)
+	
+2. Multiple LAN (Different Network) with ONE Rounter and Switches and PCS
+	--Static Routing
+	--Dynamic Routing
+	
+3. Multiple LAN (Different Network) with MORE THAN ONE Rounter and Switches and PCS
+	--Static Routing
+	--Dynamic Routing
+	
+	
+SOME PACKET TRACER COMMAND
+FOR PC:
+ipconfig
+ping IP_ADDRESS
+ping -t IP_ADDRESS
+tracert IP_ADDRESS
+
+
+FOR ROUTER:
+enable
+end
+show ip route
+
+
